@@ -64,7 +64,7 @@ Understanding the dataset and features.
 ![Models](https://github.com/Camillelib/Supervised_Machine_Learning_Project/blob/master/Media/6.%20models%20analysis.png?raw=true)
 
 * Improving the model chosen using RFE:
-
+In the end, we deleted 2 other features and kept item visibility and outlet sales as variables to classify an outlet.
 
 ## Results
 The best model to classify outlets into 4 types for this dataset would be logistic regression. Overall, the 2 most important features identified are the item visibility and outlet sales. 
